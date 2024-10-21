@@ -37,8 +37,8 @@ Make sure you have Python installed (preferably version 3.7 or higher). You can 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/government-policies-recommendation-app.git
-   cd government-policies-recommendation-app
+   git clone https://github.com/yashkadam435/Government-Schemes-Recommendation-Final-Project.git
+   cd Government-Schemes-Recommendation-Final-Project
    ```
 2. Install the required packages:
 
