@@ -65,3 +65,6 @@ Open your web browser and navigate to http://localhost:8501 to access the applic
 
 Contributions are welcome! If you have suggestions for improvements or want to add features, please open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
