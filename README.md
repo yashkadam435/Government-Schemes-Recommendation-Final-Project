@@ -11,13 +11,13 @@ This is an AI-driven web application designed to help citizens of Maharashtra na
 
 ## Screenshots
 
-![Main Interface](images/main_interface.png)
+![Main Interface](images/main_interface.jpg)
 *Main Interface: Users can input their parameters to get personalized scheme recommendations.*
 
-![Scheme Details](images/scheme_details.png)
+![Scheme Details](images/scheme_details.jpg)
 *Scheme Details: Displays information about the selected scheme.*
 
-![Chatbot Interaction](images/chatbot_interaction.png)
+![Chatbot Interaction](images/chatbot_interaction.jpg)
 *Chatbot Interaction: Ask questions related to specific policies.*
 
 ## Technologies Used
